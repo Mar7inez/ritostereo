@@ -1,0 +1,34 @@
+{
+  "shows": [
+    {
+      "id": "neuquen2024",
+      "fecha": "2024-12-15",
+      "lugar": "Teatro Neuquén Para Neuquen",
+      "ciudad": "Neuquén Capital",
+      "hora": "19:30",
+      "precio": "$25.000",
+      "entradas": "https://norteticket.com/TRIBUTO-A-CERATI-EN-NEUQUEN",
+      "descripcion": "Concierto especial de fin de año"
+    },
+    {
+      "id": "catriel2025",
+      "fecha": "2025-10-18",
+      "lugar": "Rio Negro",
+      "ciudad": "Catriel",
+      "hora": "00hs",
+      "precio": "$Libre y Gratuita",
+      "entradas": "https://ticketek.com.ar",
+      "descripcion": "Entrada libre y gratuita"
+    },
+    {
+      "id": "cordoba2025",
+      "fecha": "2025-01-10",
+      "lugar": "Teatro del Libertador",
+      "ciudad": "Córdoba",
+      "hora": "21:00",
+      "precio": "$13.000",
+      "entradas": "https://ticketek.com.ar",
+      "descripcion": "Gira nacional - Córdoba"
+    }
+  ]
+}

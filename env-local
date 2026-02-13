@@ -1,0 +1,32 @@
+APP_NAME=RITO_STEREO
+APP_URL=http://localhost:8000
+APP_ENV=local
+APP_DEBUG=true
+
+# Database
+DB_CONNECTION=sqlite
+DB_DATABASE=storage/database/database.sqlite
+
+# Mail
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=ritostereo@gmail.com
+MAIL_PASSWORD=your_app_password
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS=ritostereo@gmail.com
+MAIL_FROM_NAME="RITO STEREO"
+MAIL_TO=ritostereo@gmail.com
+
+# Security
+CSRF_TOKEN_LIFETIME=3600
+RATE_LIMIT_MAX_ATTEMPTS=20
+RATE_LIMIT_TIME_WINDOW=300
+
+# Cache
+CACHE_DRIVER=file
+CACHE_LIFETIME=3600
+
+# Logs
+LOG_LEVEL=debug
+LOG_FILE=storage/logs/app.log

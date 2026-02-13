@@ -1,0 +1,7 @@
+{
+  "tickets": [
+    { "id": "neuquen2024", "imagen": "entrada_cerati.jpeg" },
+    { "id": "laplata2024", "imagen": "ticket_bsas.png" },
+    { "id": "cordoba2025", "imagen": "ticket_banner_con_dibujo.webp" }
+  ]
+}

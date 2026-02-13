@@ -1,0 +1,40 @@
+{
+  "hero": {
+    "enabled": true,
+    "title": "Sección Hero Principal"
+  },
+  "shows": {
+    "enabled": true,
+    "title": "Próximos Shows"
+  },
+  "music": {
+    "enabled": true,
+    "title": "Música",
+    "subsections": {
+      "soundcloud": {
+        "enabled": true,
+        "title": "SoundCloud"
+      },
+      "spotify": {
+        "enabled": false,
+        "title": "Spotify Playlist"
+      },
+      "youtube": {
+        "enabled": false,
+        "title": "Videos de YouTube"
+      }
+    }
+  },
+  "gallery": {
+    "enabled": false,
+    "title": "Galería de Fotos"
+  },
+  "bio": {
+    "enabled": true,
+    "title": "Biografía"
+  },
+  "contact": {
+    "enabled": true,
+    "title": "Contacto"
+  }
+}

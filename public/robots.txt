@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /storage/
+Disallow: /app/
+Disallow: /vendor/
+Sitemap: https://tu-dominio.com/sitemap.xml

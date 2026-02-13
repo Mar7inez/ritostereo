@@ -1,0 +1,124 @@
+{
+  "highlights": [
+    {
+      "id": "highlight_1",
+      "title": "En el Estudio",
+      "image": "assets/img/logo-sin-fondo.png",
+      "type": "backstage"
+    },
+    {
+      "id": "highlight_2", 
+      "title": "Luna Park 2024",
+      "image": "assets/img/logo-sin-fondo.png",
+      "type": "show"
+    },
+    {
+      "id": "highlight_3",
+      "title": "Soundcheck",
+      "image": "assets/img/logo-sin-fondo.png", 
+      "type": "backstage"
+    },
+    {
+      "id": "highlight_4",
+      "title": "Fans en Rosario",
+      "image": "assets/img/logo-sin-fondo.png",
+      "type": "fan"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2024-12-15",
+      "venue": "Luna Park",
+      "city": "Buenos Aires",
+      "title": "Noche Épica en Luna Park",
+      "setlist": ["De Música Ligera", "Persiana Americana", "En la Ciudad de la Furia"],
+      "media": [
+        {
+          "id": "media_1",
+          "type": "photo",
+          "url": "assets/img/logo-sin-fondo.png",
+          "thumbnail": "assets/img/logo-sin-fondo.png",
+          "caption": "Momento épico durante De Música Ligera"
+        },
+        {
+          "id": "media_2", 
+          "type": "video",
+          "url": "assets/img/logo-sin-fondo.png",
+          "thumbnail": "assets/img/logo-sin-fondo.png",
+          "caption": "Persiana Americana - Solo de guitarra"
+        }
+      ]
+    },
+    {
+      "date": "2024-11-20",
+      "venue": "Teatro Colón",
+      "city": "Rosario", 
+      "title": "Acústico Íntimo",
+      "setlist": ["Té para Tres", "Cuando Pase el Temblor", "Zoom"],
+      "media": [
+        {
+          "id": "media_3",
+          "type": "photo", 
+          "url": "assets/img/logo-sin-fondo.png",
+          "thumbnail": "assets/img/logo-sin-fondo.png",
+          "caption": "Formato acústico en Rosario"
+        },
+        {
+          "id": "media_4",
+          "type": "backstage",
+          "url": "assets/img/logo-sin-fondo.png", 
+          "thumbnail": "assets/img/logo-sin-fondo.png",
+          "caption": "Preparativos antes del show"
+        }
+      ]
+    },
+    {
+      "date": "2024-10-05",
+      "venue": "Estadio Obras",
+      "city": "Buenos Aires",
+      "title": "Noche de Clásicos",
+      "setlist": ["Prófugos", "Signos", "Trátame Suavemente"],
+      "media": [
+        {
+          "id": "media_5",
+          "type": "photo",
+          "url": "assets/img/logo-sin-fondo.png", 
+          "thumbnail": "assets/img/logo-sin-fondo.png",
+          "caption": "Multitud cantando Signos"
+        },
+        {
+          "id": "media_6",
+          "type": "video",
+          "url": "assets/img/logo-sin-fondo.png",
+          "thumbnail": "assets/img/logo-sin-fondo.png", 
+          "caption": "Trátame Suavemente - Final épico"
+        }
+      ]
+    }
+  ],
+  "fan_wall": [
+    {
+      "id": "fan_1",
+      "name": "María G.",
+      "city": "Córdoba", 
+      "image": "assets/img/logo-sin-fondo.png",
+      "message": "Increíble show! Me emocioné hasta las lágrimas",
+      "approved": true,
+      "date": "2024-12-16"
+    },
+    {
+      "id": "fan_2", 
+      "name": "Carlos R.",
+      "city": "Mendoza",
+      "image": "assets/img/logo-sin-fondo.png", 
+      "message": "La mejor versión de Persiana que escuché en vivo",
+      "approved": true,
+      "date": "2024-11-21"
+    }
+  ],
+  "filters": {
+    "cities": ["Buenos Aires", "Rosario", "Córdoba", "Mendoza"],
+    "years": ["2024", "2023"],
+    "types": ["photo", "video", "backstage", "fan"]
+  }
+}

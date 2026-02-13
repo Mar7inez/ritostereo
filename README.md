@@ -2,6 +2,8 @@
 
 Sitio web oficial de la banda tributo RITO STEREO.
 
+🌐 **Sitio en vivo:** [https://peachpuff-butterfly-172564.hostingersite.com/](https://peachpuff-butterfly-172564.hostingersite.com/)
+
 ## 🚀 Instalación en Hostinger
 
 ### 1. Subir archivos
